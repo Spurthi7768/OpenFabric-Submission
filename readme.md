@@ -37,7 +37,7 @@ So we do expect you to make sure that the app is fully functional and doesn't ha
 * CMU Question-Answer Dataset :http://www.cs.cmu.edu/~ark/QA-data/
 * SciQ Dataset: https://allenai.org/data/sciq
 
-## Requirements
+## Libraries
 Numpy, Nltk, Scikit-Learn 
 
  
